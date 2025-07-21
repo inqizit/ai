@@ -1,1 +1,4 @@
-https://inqizit.github.io/ai/ 
+
+ # Inqizit AI
+ 
+https://inqizit.github.io/ai/
